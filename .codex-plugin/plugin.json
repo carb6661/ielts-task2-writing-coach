@@ -1,0 +1,25 @@
+{
+  "name": "ielts-task2-writing-coach",
+  "version": "1.0.0",
+  "description": "Guide, assess, and track IELTS Academic Writing Task 2 practice for target bands 6.5 to 8.0.",
+  "author": {
+    "name": "carb6661",
+    "url": "https://github.com/carb6661"
+  },
+  "repository": "https://github.com/carb6661/ielts-task2-writing-coach",
+  "keywords": ["ielts", "writing", "task-2", "english-learning"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "IELTS Task 2 写作教练",
+    "shortDescription": "指导、批改并追踪 Task 2 写作进步",
+    "longDescription": "面向 6.5–8.0 目标分数的 IELTS Academic Writing Task 2 指导、批改、专项训练与本地错误档案。",
+    "developerName": "carb6661",
+    "category": "Education",
+    "capabilities": ["Writing guidance", "Essay assessment", "Practice tracking"],
+    "defaultPrompt": [
+      "按目标 7.0 分指导我分析一道 IELTS Task 2 题目。",
+      "批改我的 IELTS Task 2 作文，并给出逐句修改。",
+      "基于我的历史问题，生成一组 Task 2 专项训练。"
+    ]
+  }
+}
