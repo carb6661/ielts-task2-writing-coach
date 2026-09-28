@@ -1,0 +1,4 @@
+interface:
+  display_name: "IELTS Task 2 写作教练"
+  short_description: "指导、批改并追踪 Task 2 写作进步"
+  default_prompt: "请按目标 7.0 分帮助我分析、批改或训练一篇 IELTS Academic Writing Task 2 作文。"
